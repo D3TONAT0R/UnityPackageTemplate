@@ -1,6 +1,6 @@
 # UnityPackageTemplate
  
-Template repository for future Unity packages.
+Template repository for Unity packages.
 
 The following files will need to be edited:
 
